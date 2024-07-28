@@ -1,2 +1,2 @@
 # 测试
-[link](www.baidu.com)
+[link](https://www.baidu.com)
